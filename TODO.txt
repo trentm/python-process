@@ -1,0 +1,13 @@
+# High Priority
+
+- The install fails if which.py is not installed. That sucks.
+- add a changelog
+
+
+# Medium Priority
+
+- fix MANIFEST.in processing from picking up README.txt in .svn dirs
+- get setup.py to be properly updated with project-info.xml changes
+- add some docs to the dist
+- What to do with Komodo change 126161 (None-ing 'cwd' if looks like UNC
+  path)?
